@@ -1,0 +1,18 @@
+C:\Users\Golden\Desktop\telegraph_botnet_yt\telegraph_botnet_yt\bin\Debug\telegraph_botnet_yt.exe
+C:\Users\Golden\Desktop\telegraph_botnet_yt\telegraph_botnet_yt\bin\Debug\telegraph_botnet_yt.pdb
+C:\Users\Golden\Desktop\telegraph_botnet_yt\telegraph_botnet_yt\obj\Debug\telegraph_botnet_yt.csprojAssemblyReference.cache
+C:\Users\Golden\Desktop\telegraph_botnet_yt\telegraph_botnet_yt\obj\Debug\telegraph_botnet_yt.csproj.CoreCompileInputs.cache
+C:\Users\Golden\Desktop\telegraph_botnet_yt\telegraph_botnet_yt\obj\Debug\telegraph_botnet_yt.exe
+C:\Users\Golden\Desktop\telegraph_botnet_yt\telegraph_botnet_yt\obj\Debug\telegraph_botnet_yt.pdb
+D:\CloudDesk\Other\#Pruducts\YouTube Project\Простой ботнет на c# управляемый через Telegraph\telegraph_botnet_yt\telegraph_botnet_yt\bin\Debug\telegraph_botnet_yt.exe
+D:\CloudDesk\Other\#Pruducts\YouTube Project\Простой ботнет на c# управляемый через Telegraph\telegraph_botnet_yt\telegraph_botnet_yt\bin\Debug\telegraph_botnet_yt.pdb
+D:\CloudDesk\Other\#Pruducts\YouTube Project\Простой ботнет на c# управляемый через Telegraph\telegraph_botnet_yt\telegraph_botnet_yt\obj\Debug\telegraph_botnet_yt.csprojAssemblyReference.cache
+D:\CloudDesk\Other\#Pruducts\YouTube Project\Простой ботнет на c# управляемый через Telegraph\telegraph_botnet_yt\telegraph_botnet_yt\obj\Debug\telegraph_botnet_yt.csproj.CoreCompileInputs.cache
+D:\CloudDesk\Other\#Pruducts\YouTube Project\Простой ботнет на c# управляемый через Telegraph\telegraph_botnet_yt\telegraph_botnet_yt\obj\Debug\telegraph_botnet_yt.exe
+D:\CloudDesk\Other\#Pruducts\YouTube Project\Простой ботнет на c# управляемый через Telegraph\telegraph_botnet_yt\telegraph_botnet_yt\obj\Debug\telegraph_botnet_yt.pdb
+C:\Users\Golden\Desktop\botnet yt\telegraph_botnet_yt\telegraph_botnet_yt\bin\Debug\telegraph_botnet_yt.exe
+C:\Users\Golden\Desktop\botnet yt\telegraph_botnet_yt\telegraph_botnet_yt\bin\Debug\telegraph_botnet_yt.pdb
+C:\Users\Golden\Desktop\botnet yt\telegraph_botnet_yt\telegraph_botnet_yt\obj\Debug\telegraph_botnet_yt.csprojAssemblyReference.cache
+C:\Users\Golden\Desktop\botnet yt\telegraph_botnet_yt\telegraph_botnet_yt\obj\Debug\telegraph_botnet_yt.csproj.CoreCompileInputs.cache
+C:\Users\Golden\Desktop\botnet yt\telegraph_botnet_yt\telegraph_botnet_yt\obj\Debug\telegraph_botnet_yt.exe
+C:\Users\Golden\Desktop\botnet yt\telegraph_botnet_yt\telegraph_botnet_yt\obj\Debug\telegraph_botnet_yt.pdb
