@@ -6,7 +6,7 @@
 
 Данный репозиторий включает в себя панель управления и сам бот.
 
-<b>Подписывайтесь на <a href="https://www.youtube.com/channel/UCpW8WNb9UkOd_2ZTu3CikNQ">мой канал Egolds</a>.</b>
+<b>Подписывайтесь на <a href="https://www.youtube.com/c/Egolds">мой канал Egolds</a>.</b>
 
 Там размещены видео ролики в которых был создан данный ботнет.
 
